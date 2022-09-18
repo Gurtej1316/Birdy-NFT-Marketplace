@@ -1,7 +1,7 @@
-Celo Marketplace Dapp
+# Celo Marketplace Dapp
 
 
-Description
+# Description
 
 
 This is a very simple marketplace dapp where users can:
@@ -17,9 +17,9 @@ Live Demo
 Marketplace Dapp
 
 
-Usage
+# Usage
 
-#Requirements
+# Requirements
 
 Install the CeloExtensionWallet from the Google Chrome Store.
 
@@ -29,7 +29,7 @@ Go to https://celo.org/developers/faucet and get tokens for the alfajores testne
 
 Switch to the alfajores testnet in the CeloExtensionWallet.
 
-#Test
+# Test
 
 Create a product.
 
@@ -39,16 +39,16 @@ Buy product with secondary account.
 
 Check if balance of first account increased.
 
-#Project Setup
+# Project Setup
 
-Install
+# Install
 
 npm install
 
-Start
+# Start
 
 npm run dev
 
-Build
+# Build
 
 npm run build
